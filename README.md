@@ -48,4 +48,5 @@ Compiling, Training, and Evaluating the Model
 Summary:
 
     Failed to achieve target accuracy of 75%
-    Data classification needs to be improved. Future attempts should use a variety of classification methods
+    Data classification needs to be improved. 
+    Future attempts should use a variety of classification methods
