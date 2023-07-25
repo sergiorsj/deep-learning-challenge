@@ -22,7 +22,7 @@ Data Preprocessing
 
     The target variable for this model was the "IS_SUCCESFUL" COLUMN
     All the other data was used as the features for the model
-    The 2 ideentification columns "EIN" and "NAME" were removed
+    The 2 identification columns "EIN" and "NAME" were removed
     Data was cleaned, binned, and scaled, which resulted in 43 features for splitting and training
 
 Compiling, Training, and Evaluating the Model
